@@ -6,7 +6,7 @@ players who go out of frame and reappear are assigned the same identity as befor
 https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view <br>
 The model is a basic fine-tuned version of **Ultralytics YOLOv11**, trained for players and the ball.<br>
 ## Tracking - 
-I used Byte Tracker for detecting the objects in the frames and the corresponding bounding Box.<br>
+I used Byte Tracker for tracking the players in the frames and the corresponding bounding Box.<br>
 Stored all the detection and infomation in the **track_players.pkl** <br><br>
 Drawing annotations on each player and the ball for better visualisation.<br><br>
 ![Screenshot 2025-06-28 154611](https://github.com/user-attachments/assets/d88b60b5-2e01-4c0f-96ca-b632e6395827) <br>
