@@ -33,6 +33,7 @@ pip install ultralytics supervision opencv-python pandas numpy scikit-learn torc
 ```
 
 ## Final Words
+Run the **soccer-player-identitification.ipynb** for your input to get the output
 I have done everthing in kaggle environment for faster and efficient prodcution. <br><br>
 I have written all the codes in a very simple, intuitive and structured way. 
 
