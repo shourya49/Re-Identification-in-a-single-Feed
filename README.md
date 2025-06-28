@@ -4,7 +4,7 @@ Given a 15-second video **(15sec_input_720p .mp4)**, identify each player and en
 players who go out of frame and reappear are assigned the same identity as before.<br>
 ## Model used for Detection - 
 https://drive.google.com/file/d/1-5fOSHOSB9UXyP_enOoZNAMScrePVcMD/view <br>
-The model is a basic fine-tuned version of **Ultralvtics YOLOv11**, trained for players and the ball.<br>
+The model is a basic fine-tuned version of **Ultralytics YOLOv11**, trained for players and the ball.<br>
 ## Tracking - 
 I used Byte Tracker for detecting the objects in the frames and the corresponding bounding Box.<br>
 Stored all the detection and infomation in the **track_players.pkl** <br><br>
